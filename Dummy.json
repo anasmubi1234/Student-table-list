@@ -1,0 +1,25 @@
+{
+  "dummyInfo": [
+    {
+      "id": "02",
+      "name": "Yasar Arafath",
+      "course": "Python",
+      "email": "yasardowser46@gmail.com",
+      "contact": "8325767444"
+    },
+    {
+      "id": "03",
+      "name": "Irfan Alaudeen",
+      "course": "Mern",
+      "email": "irfanalan32@gmail.com",
+      "contact": "9962111122"
+    },
+    {
+      "id": "04",
+      "name": "Anonymous",
+      "course": "MERN",
+      "email": "anonymous@gmail.com",
+      "contact": "1234567890"
+    }
+  ]
+}
